@@ -1,5 +1,7 @@
 # Deploying a Static Website on AWS
 
+![Alt text](Host_a_Static_Website_on_AWS.gif)
+
 In this project, I deployed a static website on AWS using the AWS Management Console, creating a secure, scalable, and highly available web application architecture. Below, I report the steps I took and the reasoning behind my decisions.
 
 ## Architecture Overview
