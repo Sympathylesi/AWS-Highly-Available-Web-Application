@@ -1,4 +1,4 @@
-# Deploying a Static Website on AWS
+# Deployment of a Highly available Static Website on AWS
 
 ![Alt text](Host_a_Static_Website_on_AWS.gif)
 
