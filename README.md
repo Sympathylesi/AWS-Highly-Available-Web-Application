@@ -170,3 +170,12 @@ I ensured:
 The use of descriptive names and the **EC2 Instance Connect Endpoint** simplified management and access.  
 This was a valuable learning experience in **cloud infrastructure**.
 
+
+## Let's Us Connect
+- **Email:** nsahsympathylesi@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/nsah-nsah-sympathy-lesi-3b30b6240
+- **Twitter:** https://twitter.com/@NLesi50789
+- **Website/Blog:** https://www.trunorthwest.net
+- **GitHub Profile:** https://github.com/Sympathylesi
+- **Facebook:** http://www.facebook.com/sympathylesi
+
